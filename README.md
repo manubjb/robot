@@ -58,8 +58,3 @@ python cliente_robot.py
 - HUD com status de rede (perda de pacotes, RTT estimado) e limites de área.
 - Gravação de sessões para análise de tráfego em laboratório de redes.
 
-## Por que este projeto importa no portfólio
-- Demonstra domínio de **conceitos de rede** aplicados a tempo real.
-- Mostra **concorrência segura** em Python sem bloquear a UI.
-- Evidencia compreensão de **loops de jogo** e **renderização 2D** com Pygame.
-- Exibe habilidade de criar **protocolos leves** e debuggáveis para protótipos rápidos.
